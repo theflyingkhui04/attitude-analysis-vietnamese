@@ -1,5 +1,6 @@
 # attitude-analysis-vietnamese
 Bài tập lớn môn Nhập môn Trí tuệ Nhân tạo: Xây dựng mô hình phân loại thái độ văn bản tiếng Việt sử dụng PhoBERT, BiLSTM, Attention.
+Số điểm nhóm đạt được: 9/10
 
 ## Hướng dẫn chạy dự án
 
@@ -30,4 +31,5 @@ python main.py
 - `requirements.txt`: Danh sách thư viện cần thiết.
 - `dataset/`: Dữ liệu gốc.
 - `notebook/`: Notebook huấn luyện và kiểm thử.
+- `test model`: File notebook dùng test và link kaggle nếu muốn test online.
 
