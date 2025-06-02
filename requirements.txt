@@ -1,0 +1,8 @@
+tensorflow
+keras
+numpy
+transformers
+ipywidgets
+matplotlib
+scikit-learn
+ipython

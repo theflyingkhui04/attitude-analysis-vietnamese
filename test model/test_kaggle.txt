@@ -1,0 +1,2 @@
+có thể test trực tuyến trên kaggle để khỏi cài đặt môi trường
+https://www.kaggle.com/code/duckhoi/check-model-attitude
